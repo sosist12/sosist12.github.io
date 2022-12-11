@@ -1,7 +1,13 @@
 *{
     outline: 1px solid #f00;
 }
-
+header{
+    height:400px;
+    background-color: rgba(0,0,0,.4);
+}
+header h1{
+    font-size: 30px;
+}
 header h1 span{
-    color:rgb(92, 55, 154);
+    color:rgb(85, 20, 206);
 }
